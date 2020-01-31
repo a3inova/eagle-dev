@@ -21,4 +21,5 @@ Route::apiResource('uf','ags\AgsUfController');
 Route::apiResource('cidade','ags\AgsCidadeController');
 Route::apiResource('pais','ags\AgsPaisController');
 Route::apiResource('cep','ags\AgsCepController');
-Route::apiResource('distritosanitario','ags\AgsDistritoSanitarioController');
+Route::apiResource('distritosanitario','Ags\AgsDistritoSanitarioController');
+Route::apiResource('bairro','Ags\AgsBairroController');
