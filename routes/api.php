@@ -30,3 +30,4 @@ Route::apiResource('regiao','Ags\AgsRegiaoController');
 Route::apiResource('modulo','Ags\AgsModuloController');
 Route::apiResource('tipoLogradouro','Ags\AgsTipoLogradouroController');
 Route::apiResource('tabelaItem','Ags\AgsTabelaItemController');
+Route::apiResource('grupoFornecedor','Ags\AgsGrupoFornecedorController');
